@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0128-longest-consecutive-sequence) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0073-set-matrix-zeroes) |
 ## Divide and Conquer
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
