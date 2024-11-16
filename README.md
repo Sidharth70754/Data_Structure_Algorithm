@@ -123,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0493-reverse-pairs) |
+## String
+|  |
+| ------- |
+| [0742-to-lower-case](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
