@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0907-koko-eating-bananas) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0907-koko-eating-bananas) |
 ## Binary Indexed Tree
 |  |
 | ------- |
