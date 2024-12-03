@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0128-longest-consecutive-sequence) |
+| [0134-gas-station](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -158,5 +159,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
