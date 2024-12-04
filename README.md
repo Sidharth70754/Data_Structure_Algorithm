@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0189-rotate-array) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2232-adding-spaces-to-a-string) |
 ## Prefix Sum
 |  |
@@ -159,10 +160,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0742-to-lower-case](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0742-to-lower-case) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2232-adding-spaces-to-a-string) |
 ## Greedy
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0410-split-array-largest-sum) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
