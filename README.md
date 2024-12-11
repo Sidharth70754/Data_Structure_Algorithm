@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0742-to-lower-case](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1078-remove-outermost-parentheses) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2032-largest-odd-number-in-string) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Concurrency
 |  |
