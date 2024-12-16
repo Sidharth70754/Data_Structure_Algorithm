@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0560-subarray-sum-equals-k) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3227-find-missing-and-repeated-values) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Math
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1078-remove-outermost-parentheses) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2032-largest-odd-number-in-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2414-move-pieces-to-obtain-a-string) |
