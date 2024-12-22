@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2868-continuous-subarrays) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 | [3427-special-array-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -191,16 +192,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3427-special-array-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0493-reverse-pairs) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0493-reverse-pairs) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Merge Sort
 |  |
 | ------- |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2868-continuous-subarrays) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
@@ -268,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Sliding Window
 |  |
 | ------- |
@@ -291,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Tree
 |  |
 | ------- |
