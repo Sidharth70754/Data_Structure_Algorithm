@@ -326,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
