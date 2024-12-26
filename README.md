@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0494-target-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2164-two-best-non-overlapping-events) |
 ## Two Pointers
 |  |
@@ -334,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0237-delete-node-in-a-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
