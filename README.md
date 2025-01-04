@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3427-special-array-ii) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0136-single-number) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Simulation
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2032-largest-odd-number-in-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2414-move-pieces-to-obtain-a-string) |
