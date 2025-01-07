@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0088-merge-sorted-array) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0237-delete-node-in-a-linked-list) |
