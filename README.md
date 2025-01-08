@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3227-find-missing-and-repeated-values) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Greedy
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0812-rotate-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Concurrency
 |  |
 | ------- |
@@ -377,4 +380,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0494-target-sum) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
