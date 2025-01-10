@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0088-merge-sorted-array) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0451-sort-characters-by-frequency) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2292-counting-words-with-a-given-prefix) |
