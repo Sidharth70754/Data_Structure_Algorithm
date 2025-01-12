@@ -26,33 +26,31 @@ public:
         while (list1 != NULL && list2 != NULL) {
             if (list1->val < list2->val) {
                 temp->next = list1;
-                temp = list1;
                 list1 = list1->next;
             } else {
                 temp->next = list2;
-                temp = list2;
                 list2 = list2->next;
             }
+            temp = temp->next;
         }
-        if (list1)
-            temp->next = list1;
-        else
-            temp->next = list2;
+        if (list1) temp->next = list1;
+        else temp->next = list2;
 
-        return dummyNode->next;
+        ListNode* result = dummyNode->next;
+        delete dummyNode; 
+        return result;
     }
 
     ListNode* sortList(ListNode* head) {
-        if(head == NULL || head->next == NULL) return head;
+        if (head == NULL || head->next == NULL) return head;
 
-	ListNode* middle = findmiddle(head);
-	ListNode* right = middle->next;
-	middle->next = nullptr;
-    ListNode* left = head;
+        ListNode* middle = findmiddle(head);
+        ListNode* right = middle->next;
+        middle->next = NULL;
 
-	left = sortList(left);
-	right = sortList(right);
+        ListNode* left = sortList(head);
+        right = sortList(right);
 
-	return mergeToLists(left, right);
+        return mergeToLists(left, right);
     }
 };
