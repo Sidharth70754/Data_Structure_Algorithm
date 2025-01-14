@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0189-rotate-array) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0142-linked-list-cycle-ii) |
@@ -416,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
