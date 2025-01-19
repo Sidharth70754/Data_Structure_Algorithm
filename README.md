@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0326-power-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2032-largest-odd-number-in-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0326-power-of-three) |
 ## Brainteaser
 |  |
 | ------- |
