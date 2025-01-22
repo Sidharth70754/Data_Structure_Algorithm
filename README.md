@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1646-kth-missing-positive-number) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1876-map-of-highest-peak](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1917-maximum-average-pass-ratio) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
+| [1876-map-of-highest-peak](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3227-find-missing-and-repeated-values) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1876-map-of-highest-peak](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
