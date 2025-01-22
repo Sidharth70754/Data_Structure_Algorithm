@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0326-power-of-three) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0326-power-of-three) |
