@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1025-minimum-cost-for-tickets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1063-best-sightseeing-pair) |
+| [1396-count-servers-that-communicate](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0128-longest-consecutive-sequence) |
+| [1396-count-servers-that-communicate](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1396-count-servers-that-communicate) |
 ## Matrix
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
+| [1396-count-servers-that-communicate](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2685-first-completely-painted-row-or-column) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0451-sort-characters-by-frequency) |
+| [1396-count-servers-that-communicate](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2300-construct-string-with-repeat-limit) |
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1396-count-servers-that-communicate](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -401,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1396-count-servers-that-communicate](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
