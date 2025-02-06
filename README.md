@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1025-minimum-cost-for-tickets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1063-best-sightseeing-pair) |
+| [1364-tuple-with-same-product](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0560-subarray-sum-equals-k) |
+| [1364-tuple-with-same-product](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0451-sort-characters-by-frequency) |
+| [1364-tuple-with-same-product](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1890-sum-of-beauty-of-all-substrings) |
