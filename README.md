@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3227-find-missing-and-repeated-values) |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3231-minimum-number-of-coins-to-be-added) |
 ## Counting
 |  |
 | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3231-minimum-number-of-coins-to-be-added) |
 ## String Matching
 |  |
 | ------- |
