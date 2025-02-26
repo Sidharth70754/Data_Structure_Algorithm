@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1646-kth-missing-positive-number) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1063-best-sightseeing-pair) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2562-count-ways-to-build-good-strings) |
 ## Two Pointers
