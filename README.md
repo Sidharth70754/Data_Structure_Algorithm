@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0493-reverse-pairs) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0455-assign-cookies) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1025-minimum-cost-for-tickets) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0455-assign-cookies) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0780-max-chunks-to-make-sorted) |
