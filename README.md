@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0780-max-chunks-to-make-sorted) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [2868-continuous-subarrays](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
@@ -611,4 +613,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0204-count-primes) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
