@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0242-valid-anagram) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0779-max-chunks-to-make-sorted-ii) |
