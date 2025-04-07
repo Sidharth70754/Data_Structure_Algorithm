@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -624,5 +625,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
