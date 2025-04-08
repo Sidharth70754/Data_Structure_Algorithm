@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [1364-tuple-with-same-product](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0780-max-chunks-to-make-sorted) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0496-next-greater-element-i) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
