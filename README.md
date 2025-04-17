@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0742-to-lower-case](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0742-to-lower-case) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0455-assign-cookies) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0225-implement-stack-using-queues) |
+| [0402-remove-k-digits](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0678-valid-parenthesis-string) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0779-max-chunks-to-make-sorted-ii) |
