@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0368-largest-divisible-subset](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0410-split-array-largest-sum) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2164-two-best-non-overlapping-events) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0239-sliding-window-maximum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2868-continuous-subarrays](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2868-continuous-subarrays) |
@@ -522,10 +525,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0239-sliding-window-maximum) |
 | [2868-continuous-subarrays](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0239-sliding-window-maximum) |
 | [2868-continuous-subarrays](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2868-continuous-subarrays) |
 ## Monotonic Stack
 |  |
