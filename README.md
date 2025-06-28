@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0368-largest-divisible-subset) |
+| [1013-fibonacci-number](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2032-largest-odd-number-in-string) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0943-sum-of-subarray-minimums) |
+| [1013-fibonacci-number](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1063-best-sightseeing-pair) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2050-count-good-numbers) |
 ## Brainteaser
 |  |
@@ -679,4 +682,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0937-online-stock-span) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
