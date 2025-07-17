@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0943-sum-of-subarray-minimums) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1025-minimum-cost-for-tickets) |
+| [1046-max-consecutive-ones-iii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1063-best-sightseeing-pair) |
 | [1364-tuple-with-same-product](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1364-tuple-with-same-product) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0239-sliding-window-maximum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2868-continuous-subarrays](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2868-continuous-subarrays) |
