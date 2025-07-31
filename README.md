@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1063-best-sightseeing-pair) |
 | [1364-tuple-with-same-product](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1364-tuple-with-same-product) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1364-tuple-with-same-product](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1364-tuple-with-same-product) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0368-largest-divisible-subset) |
 | [1013-fibonacci-number](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1013-fibonacci-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2032-largest-odd-number-in-string) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -544,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2868-continuous-subarrays](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2868-continuous-subarrays) |
