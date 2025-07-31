@@ -1,21 +1,18 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        int count = 0;
+        int count[3] = {0, 0, 0};
         int left = 0;
-        unordered_map<char, int> char_count = {{'a', 0}, {'b', 0}, {'c', 0}};
+        int res = 0;
+        for(int right = 0; right < s.size(); right++){
+            count[s[right] - 'a'] ++;
 
-        for (int right = 0; right < s.length(); ++right) {
-            char_count[s[right]]++;
-
-            while (char_count['a'] > 0 && char_count['b'] > 0 &&
-                   char_count['c'] > 0) {
-                count += s.length() - right;
-                char_count[s[left]]--;
-                left++;
+            while(count[0] > 0 && count[1] > 0 && count[2] > 0){
+                res += s.length() - right;
+                count[s[left] - 'a'] --;
+                left ++;
             }
         }
-
-        return count;
+        return res;
     }
 };
