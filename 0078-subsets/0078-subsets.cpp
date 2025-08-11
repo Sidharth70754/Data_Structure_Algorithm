@@ -1,18 +1,21 @@
 class Solution {
 public:
+    void subset(int idx, vector<int> &nums, vector<int> &current, vector<vector<int>> &result) {
+        // Add current subset to result
+        result.push_back(current);
+
+        // Generate further subsets
+        for (int i = idx; i < nums.size(); i++) {
+            current.push_back(nums[i]);              // choose
+            subset(i + 1, nums, current, result);    // explore
+            current.pop_back();                      // un-choose
+        }
+    }
+
     vector<vector<int>> subsets(vector<int>& nums) {
-        int n = nums.size();
-        int subset = 1 << n;
-        vector<vector<int>>  ans ;
-        for(int mask= 0 ; mask < subset ; mask++){
-            vector<int>  list;
-            for (int i = 0; i < n; i++){
-                if(mask & (1<<i)){
-                    list.push_back(nums[i]);
-                }
-            }
-            ans.push_back(list);
-        } 
-        return ans;
+        vector<vector<int>> result;
+        vector<int> current;
+        subset(0, nums, current, result);
+        return result;
     }
 };
