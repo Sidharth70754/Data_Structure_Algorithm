@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0342-power-of-four) |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0494-target-sum) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
