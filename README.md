@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0435-non-overlapping-intervals) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0908-middle-of-the-linked-list) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
