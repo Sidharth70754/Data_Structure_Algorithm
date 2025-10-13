@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0435-non-overlapping-intervals) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0908-middle-of-the-linked-list) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0371-sum-of-two-integers) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
