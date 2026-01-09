@@ -553,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0402-remove-k-digits) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0820-find-eventual-safe-states) |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
