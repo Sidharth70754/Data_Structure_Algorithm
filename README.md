@@ -633,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/1396-count-servers-that-communicate) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sidharth70754/Data_Structure_Algorithm/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Graph
